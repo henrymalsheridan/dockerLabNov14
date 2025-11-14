@@ -24,7 +24,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: malikhenry23/dockerLabNov14:latest
+          tags: malikhenry23/dockerlabnov14:latest
 
   deploy: # <--- THIS IS THE CORRECTED INDENTATION
     runs-on: ubuntu-latest
